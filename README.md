@@ -1,1 +1,1 @@
-# Front_end_project
+# coding-project-template
